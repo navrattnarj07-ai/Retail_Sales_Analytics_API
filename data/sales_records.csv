@@ -1,0 +1,13 @@
+id,item_name,category,cost_price,selling_price,quantity_sold,revenue,profit
+1,Cold Coffee,Beverages,30.0,65.0,12,780.0,420.0
+2,Veg Grilled Sandwich,Snacks,35.0,70.0,10,700.0,350.0
+3,Masala Chai,Beverages,8.0,20.0,25,500.0,300.0
+4,Spiral Notebook,Stationery,40.0,60.0,8,480.0,160.0
+5,Blue Gel Pen Pack,Stationery,25.0,45.0,15,675.0,300.0
+6,Paneer Roll,Snacks,45.0,85.0,9,765.0,360.0
+7,Bottled Water 1L,Beverages,14.0,20.0,30,600.0,180.0
+8,Fresh Lime Soda,Beverages,15.0,40.0,14,560.0,350.0
+9,USB-C Cable,Electronics,120.0,130.0,4,520.0,40.0
+10,Scientific Calculator,Electronics,650.0,780.0,2,1560.0,260.0
+11,Day-Old Muffin Clearance,Snacks,30.0,25.0,5,125.0,-25.0
+12,A4 Printer Rim,Stationery,210.0,230.0,3,690.0,60.0
